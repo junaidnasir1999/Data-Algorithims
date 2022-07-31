@@ -1,0 +1,26 @@
+First Data Structure:
+Linkedlist
+node means
+value (number) and pointer (connect you next node in the chain)
+
+Head is first and last is tail
+
+Arrays:
+
+Hash Table:
+add+remove
+
+Stack+Que
+push and pop Last come and first out
+Stack use algo DFS
+
+First in first out
+enque(1) .deque()
+Que use BFS algo
+
+
+Graph+Trees
+Binary Search Tree is not a perfect data strctures it contains sometime unabalance to add elements it's loses a lot of the adv you get with your Search Optimization
+Self balancing tree red black trees and b trees
+
+leetcode codewars
